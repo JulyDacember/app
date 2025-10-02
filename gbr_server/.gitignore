@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Pytest / coverage
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# IDE
+.idea/
+.vscode/
+
+# Local
+.env
+.env.*
+
+# Migrations cache
+alembic/versions/__pycache__/
+
